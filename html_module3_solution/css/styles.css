@@ -27,7 +27,7 @@ body {
 .navbar-brand {
 	text-transform: uppercase;
 	margin-bottom: 50px;
-	padding-left: 60px;
+	padding-left: 30px;
 }
 
 .navbar-brand a {
@@ -69,5 +69,6 @@ button.navbar-toggle {
 
 #chicken,#beef,#sushi {
 	text-align: center;
-	padding-left: 60px;
+	padding-left: 30px;
+	padding-right:30px;
 }
